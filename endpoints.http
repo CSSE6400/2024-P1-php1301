@@ -28,4 +28,3 @@
  
  ### Delete a Todo 
  DELETE {{baseUrl}}/api/v1/todos/1
- 
